@@ -64,10 +64,6 @@ button {
     color: black;
 }
 
-#download:active {
-    background-color: red;
-    color: black;
-}
 
 p {
     text-align: justify;
